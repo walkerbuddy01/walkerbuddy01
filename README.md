@@ -1,5 +1,12 @@
 # 💫 About Me:
-i am currently working on my web development portfolio<br>i am currently learning DSA<br>i am in college pursuing BSc.I.T<br>
+
+# Hello, I'm Karan Sharma! 👋
+
+## About Me
+
+- 😄 Pronouns: [Your Pronouns]
+- 🌱 I’m currently learning Data Structures and algorithms 
+- 💬 Ask me about [ Data Structures and algorithms ]
 
 
 ## 🌐 Socials:
