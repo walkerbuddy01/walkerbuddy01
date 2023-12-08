@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 😄 Pronouns: [Your Pronouns]
+- 😄 Pronouns: Karan Sharma 
 - 🌱 I’m currently learning Data Structures and algorithms 
 - 💬 Ask me about [ Data Structures and algorithms ]
 
