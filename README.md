@@ -1,4 +1,4 @@
-<img height="140"  src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"  />
+<img height="140" width="400"  src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"  />
 
 # 💫 About Me:
 🔭 I’m currently working on Blog project <br>🌱 I’m currently learning MERN stack <br>💬 Ask me about c++,javascript,gsap, locomotive,react js,GitHub, appwrite and any general software development questions <br>
