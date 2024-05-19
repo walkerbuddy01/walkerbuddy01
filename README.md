@@ -1,4 +1,4 @@
-<img height="200" width="600"  src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"  />
+<img height="200" width="600"  src="[https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"  />
 
 # 💫 About Me:
 I possess a profound interest in exploring emerging technologies and advancing my expertise within the realm of computer science. My dedication lies in continual learning and the pursuit of excellence in the field
