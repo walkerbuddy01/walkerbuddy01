@@ -1,4 +1,4 @@
-<img height="200" width="1080"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img height="300" width="1080"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 # 💫 About Me:
 I possess a profound interest in exploring emerging technologies and advancing my expertise within the realm of computer science. My dedication lies in continual learning and the pursuit of excellence in the field
